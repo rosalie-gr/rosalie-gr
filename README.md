@@ -48,7 +48,7 @@
 
 <p float="left">
   <img align="top" img src="https://64.media.tumblr.com/c2b8695c862952eeef296677124754d8/eef114605cdaddb8-a8/s500x750/9159dc0e907edaa611c127a5f0f48a8cefa851b9.gif" width="50%" />
-&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
   <img align="top" img src="https://giffiles.alphacoders.com/212/212693.gif" width="40%"/> 
 </p>
 

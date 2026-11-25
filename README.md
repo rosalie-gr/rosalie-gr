@@ -58,12 +58,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rosalie-gr/count.svg?" width="40%"/>
-</div>
-
-###
-
 <h1 align="left"</h1>
 
 ###
